@@ -1,0 +1,5 @@
+Added Component: Designator=R1(RESISTOR 2W)
+Added Pin To Net: NetName=NetCN1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Member To Class: ClassName=boost_nguyenLy Member=Component R1 1k
+Added Room: Name=boost_nguyenLy

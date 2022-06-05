@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=CN1-2
+Removed Member From Class: ClassName=boost_nguyenLy Member=CN3
+Change Component Footprint: Designator=CN1 Old Footprint=CON2-1 New Footprint=CON3-2
+Change Component Comment : Designator=CN1 Old Comment=Con2/Header2 New Comment=Con3/Header3
+Change Component Designator: OldDesignator=CN3 NewDesignator=CN2
+Added Pin To Net: NetName=NetC1_2 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=Q1-1
+Added Net: Name=NetCN1_2

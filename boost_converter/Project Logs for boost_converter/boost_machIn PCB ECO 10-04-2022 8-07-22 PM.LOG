@@ -1,0 +1,25 @@
+Added Component: Designator=C1(CP2/5)
+Added Component: Designator=CN1(CON2-3)
+Added Component: Designator=CN2(CON2-3)
+Added Component: Designator=CN3(CON2-3)
+Added Component: Designator=D1(Diode)
+Added Component: Designator=Q1(TO-247)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=CN3-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetC1_2 Pin=CN3-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_1 Pin=Q1-1
+Added Net: Name=NetCN2_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Net: Name=NetD1_1
+Added Class: Name=boost_nguyenLy
+Added Room: Name=boost_nguyenLy

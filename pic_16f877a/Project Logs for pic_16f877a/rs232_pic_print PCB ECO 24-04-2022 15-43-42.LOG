@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC7_1 Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Member To Class: ClassName=rs232_pic Member=Component D5 Diode 1N4007
+Added Room: Name=rs232_pic

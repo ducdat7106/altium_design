@@ -1,0 +1,3 @@
+Added Component: Designator=U1(MODULE_ESP32_DEVKIT_V1)
+Added Member To Class: ClassName=rs232_pic Member=Component U1 ESP32-DEVKIT-V1
+Added Room: Name=rs232_pic
